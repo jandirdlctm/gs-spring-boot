@@ -65,11 +65,11 @@
          <version>2.2</version>
          <configuration>
          <server>tomcat-development-server</server>
-         <url>http://23.21.241.40:8080/manager/text</url>
+         <url>http://3.231.219.75:8080/manager/text</url>
          <warFile>target\hello.war</warFile>
          <path>/hello</path>
          <username>admin</username>
-        <password>cloud@123</password>
+        <password>Opnaj19!234</password>
          </configuration>
      </plugin>  
 
